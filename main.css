@@ -1,0 +1,16 @@
+header {
+  border-bottom: solid 1.4px #000000;
+}
+.head {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin: 0px 5% 10px;
+  font-size: 35px;
+}
+.logo {
+  margin-right: 65%;
+}
+.navi {
+  text-decoration-line: none;
+  color: #000000;
+}
